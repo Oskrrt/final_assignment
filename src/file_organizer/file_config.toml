@@ -1,0 +1,2 @@
+filetypes = ["txt", "json", "py", "mp3", "mp4", "dll", "pdf", "JPG", "png", "exe"]
+log_events = ["directory created", "file moved", "error"]

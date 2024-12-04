@@ -1,83 +1,428 @@
-2024-12-01 20:09:05.070013 - error: None
-2024-12-01 20:18:10.541402 - error: None
-2024-12-01 20:19:20.584508 - error: None
-2024-12-01 20:38:17.447480 - error: None
-2024-12-01 20:38:17.448479 - error: None
-2024-12-01 20:39:05.751604 - error: None
-2024-12-01 20:39:05.751604 - error: None
-2024-12-01 20:39:20.468784 - error: None
-2024-12-01 20:39:20.468784 - error: None
-2024-12-01 20:40:04.531331 - error: None
-2024-12-01 20:40:04.531331 - error: None
-2024-12-01 20:40:36.351211 - error: None
-2024-12-01 20:40:36.351211 - error: None
-2024-12-01 20:40:44.576018 - error: None
-2024-12-01 20:40:44.576018 - error: None
-2024-12-01 20:41:03.803579 - error: None
-2024-12-01 20:41:03.803579 - error: None
-2024-12-01 20:41:29.896784 - error: None
-2024-12-01 20:41:29.896784 - error: None
-2024-12-01 20:41:40.433118 - error: None
-2024-12-01 20:41:40.434118 - error: None
-2024-12-01 20:41:54.278329 - error: None
-2024-12-01 20:41:54.278329 - error: None
-2024-12-01 20:42:25.043841 - error: None
-2024-12-01 20:42:25.044842 - error: None
-2024-12-01 20:42:52.483827 - error: None
-2024-12-01 20:42:52.484847 - error: None
-2024-12-01 20:42:57.770628 - error: None
-2024-12-01 20:42:57.771628 - error: None
-2024-12-01 20:43:03.343195 - error: None
-2024-12-01 20:43:03.343195 - error: None
-2024-12-01 20:43:37.487687 - error: None
-2024-12-01 20:43:37.487687 - error: None
-2024-12-01 20:44:25.775320 - error: None
-2024-12-01 20:44:25.775320 - error: None
-2024-12-01 20:44:34.494045 - error: None
-2024-12-01 20:44:34.494045 - error: None
-2024-12-01 20:44:53.542075 - error: None
-2024-12-01 20:45:40.546215 - error: None
-2024-12-01 20:45:45.306443 - error: None
-2024-12-01 20:46:03.386558 - error: None
-2024-12-01 20:47:31.816513 - error: None
-2024-12-01 20:48:14.461035 - error: None
-2024-12-01 20:48:49.860723 - error: None
-2024-12-01 20:48:54.011505 - error: None
-2024-12-01 20:48:57.619544 - error: None
-2024-12-01 20:54:23.278702 - error: None
-2024-12-01 20:54:36.219814 - error: None
-2024-12-01 20:55:46.909708 - error: None
-2024-12-01 20:56:14.113112 - error: None
-2024-12-01 20:56:24.968596 - error: None
-2024-12-01 20:56:42.817094 - error: None
-2024-12-01 20:57:09.580679 - error: None
-2024-12-01 20:57:25.301680 - error: None
-2024-12-01 20:57:35.312462 - error: None
-2024-12-01 20:58:04.984720 - error: None
-2024-12-01 20:58:23.229054 - error: None
-2024-12-01 20:59:48.192509 - error: None
-2024-12-01 21:00:33.103891 - error: None
-2024-12-01 21:00:42.459889 - error: None
-2024-12-01 21:00:49.700616 - error: None
-2024-12-01 21:12:23.883196 - error: None
-2024-12-01 21:12:58.585656 - error: None
-2024-12-01 21:13:17.719849 - error: None
-2024-12-01 21:13:22.723951 - error: None
-2024-12-01 21:13:28.543616 - error: None
-2024-12-01 21:14:08.784610 - error: None
-2024-12-01 21:15:04.874334 - error: None
-2024-12-01 21:15:56.619672 - error: None
-2024-12-01 21:16:40.137822 - error: None
-2024-12-01 21:17:09.753525 - error: None
-2024-12-01 21:17:47.038396 - error: None
-2024-12-01 21:18:11.486808 - error: None
-2024-12-01 21:19:01.998661 - error: None
-2024-12-01 21:19:16.125354 - error: None
-2024-12-01 21:19:27.418872 - error: None
-2024-12-01 21:20:04.885243 - error: None
-2024-12-01 21:20:11.820514 - error: None
-2024-12-01 23:16:26.746652 - error: None
-2024-12-01 23:17:01.141659 - error: None
-2024-12-01 23:17:17.452327 - error: None
-2024-12-01 23:17:18.923849 - error: None
-2024-12-01 23:17:20.575275 - error: None
+2024-12-04 04:23:38.334277 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 101, in test_error
+    print(hei[2])
+          ~~~^^^
+IndexError: list index out of range
+
+2024-12-04 04:24:59.392971 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 101, in test_error
+    print(hei[2])
+          ~~~^^^
+IndexError: list index out of range
+
+2024-12-04 04:27:39.236301 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 101, in test_error
+    print(hei[2])
+          ~~~^^^
+IndexError: list index out of range
+
+2024-12-04 04:41:31.200717 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 151, in get_supported_file_types_from_config
+    with open(cls.CONFIG_FILE_PATH, "rb") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'src\\file_organizer\\file_confi.toml'
+
+2024-12-04 04:44:28.433537 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 151, in get_supported_file_types_from_config
+    with open(cls.CONFIG_FILE_PATH, "rb") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'src\\file_organizer\\file_confi.toml'
+
+2024-12-04 04:44:37.956383 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 151, in get_supported_file_types_from_config
+    with open(cls.CONFIG_FILE_PATH, "rb") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'src\\file_organizer\\file_confi.toml'
+
+2024-12-04 04:46:04.929805 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 151, in get_supported_file_types_from_config
+    with open(cls.CONFIG_FILE_PATH, "rb") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'src\\file_organizer\\file_confi.toml'
+
+2024-12-04 04:46:14.607130 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 151, in get_supported_file_types_from_config
+    with open(cls.CONFIG_FILE_PATH, "rb") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: 'src\\file_organizer\\file_confi.toml'
+
+2024-12-04 04:46:29.786506 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 152, in get_supported_file_types_from_config
+    return tomllib.load(f)["filetype"]
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'filetype'
+
+2024-12-04 04:46:47.642355 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 152, in get_supported_file_types_from_config
+    return tomllib.load(f)["filetype"]
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'filetype'
+
+2024-12-04 04:46:58.288501 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 152, in get_supported_file_types_from_config
+    return tomllib.load(f)["filetype"]
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'filetype'
+
+2024-12-04 04:47:51.939194 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 152, in get_supported_file_types_from_config
+    return tomllib.load(f)["filetype"]
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'filetype'
+
+2024-12-04 04:47:59.065393 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 152, in get_supported_file_types_from_config
+    return tomllib.load(f)["filetype"]
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'filetype'
+
+2024-12-04 04:48:07.719002 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 152, in get_supported_file_types_from_config
+    return tomllib.load(f)["filetype"]
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'filetype'
+
+2024-12-04 04:48:24.465293 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 152, in get_supported_file_types_from_config
+    return tomllib.load(f)["filetype"]
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'filetype'
+
+2024-12-04 04:48:31.965080 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 152, in get_supported_file_types_from_config
+    return tomllib.load(f)["filetype"]
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'filetype'
+
+2024-12-04 04:48:44.547835 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 152, in get_supported_file_types_from_config
+    return tomllib.load(f)["filetype"]
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'filetype'
+
+2024-12-04 04:48:51.816230 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 152, in get_supported_file_types_from_config
+    return tomllib.load(f)["filetype"]
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'filetype'
+
+2024-12-04 04:52:28.314202 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 152, in get_supported_file_types_from_config
+    return tomllib.load(f)["filetype"]
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'filetype'
+
+2024-12-04 04:52:47.902005 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 152, in get_supported_file_types_from_config
+    return tomllib.load(f)["filetype"]
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'filetype'
+
+2024-12-04 04:55:10.421998 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 152, in get_supported_file_types_from_config
+    return tomllib.load(f)["filetype"]
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'filetype'
+
+2024-12-04 04:55:28.984510 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 152, in get_supported_file_types_from_config
+    return tomllib.load(f)["filetype"]
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'filetype'
+
+2024-12-04 04:55:50.391998 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 152, in get_supported_file_types_from_config
+    return tomllib.load(f)["filetype"]
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'filetype'
+
+2024-12-04 04:56:08.665901 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 152, in get_supported_file_types_from_config
+    return tomllib.load(f)["filetype"]
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'filetype'
+
+2024-12-04 04:56:20.890121 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 152, in get_supported_file_types_from_config
+    return tomllib.load(f)["filetype"]
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'filetype'
+
+2024-12-04 04:56:26.780311 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 152, in get_supported_file_types_from_config
+    return tomllib.load(f)["filetype"]
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'filetype'
+
+2024-12-04 04:56:30.669269 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 152, in get_supported_file_types_from_config
+    return tomllib.load(f)["filetype"]
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'filetype'
+
+2024-12-04 04:56:34.237540 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 152, in get_supported_file_types_from_config
+    return tomllib.load(f)["filetype"]
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'filetype'
+
+2024-12-04 05:01:13.685806 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 152, in get_supported_file_types_from_config
+    return tomllib.load(f)["filetype"]
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'filetype'
+
+2024-12-04 05:01:26.932219 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 152, in get_supported_file_types_from_config
+    return tomllib.load(f)["filetype"]
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'filetype'
+
+2024-12-04 05:01:46.253824 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 152, in get_supported_file_types_from_config
+    return tomllib.load(f)["filetype"]
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'filetype'
+
+2024-12-04 05:03:02.814563 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 152, in get_supported_file_types_from_config
+    return tomllib.load(f)["filetype"]
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'filetype'
+
+2024-12-04 05:04:03.162468 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 152, in get_supported_file_types_from_config
+    return tomllib.load(f)["filetype"]
+           ~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'filetype'
+
+2024-12-04 05:29:49.934287 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 90, in move_file
+    raise Exception("bera")
+Exception: bera
+
+2024-12-04 05:30:43.854935 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 90, in move_file
+    raise Exception("bera")
+Exception: bera
+
+2024-12-04 05:30:48.078892 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 90, in move_file
+    raise Exception("bera")
+Exception: bera
+
+2024-12-04 05:30:50.096568 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 90, in move_file
+    raise Exception("bera")
+Exception: bera
+
+2024-12-04 05:30:50.097568 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 90, in move_file
+    raise Exception("bera")
+Exception: bera
+
+2024-12-04 05:30:50.097568 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 90, in move_file
+    raise Exception("bera")
+Exception: bera
+
+2024-12-04 05:30:50.098569 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 90, in move_file
+    raise Exception("bera")
+Exception: bera
+
+2024-12-04 05:30:50.098569 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 90, in move_file
+    raise Exception("bera")
+Exception: bera
+
+2024-12-04 05:30:50.099568 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 90, in move_file
+    raise Exception("bera")
+Exception: bera
+
+2024-12-04 05:30:50.100569 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 90, in move_file
+    raise Exception("bera")
+Exception: bera
+
+2024-12-04 05:33:04.664426 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 90, in move_file
+    raise Exception("bera")
+Exception: bera
+
+2024-12-04 05:33:04.664426 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 90, in move_file
+    raise Exception("bera")
+Exception: bera
+
+2024-12-04 05:33:04.665427 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 90, in move_file
+    raise Exception("bera")
+Exception: bera
+
+2024-12-04 05:33:04.665427 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 90, in move_file
+    raise Exception("bera")
+Exception: bera
+
+2024-12-04 05:33:04.666427 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 90, in move_file
+    raise Exception("bera")
+Exception: bera
+
+2024-12-04 05:33:04.666427 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 90, in move_file
+    raise Exception("bera")
+Exception: bera
+
+2024-12-04 05:33:04.666427 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 90, in move_file
+    raise Exception("bera")
+Exception: bera
+
+2024-12-04 05:33:28.833407 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 90, in move_file
+    raise Exception("bera")
+Exception: bera
+
+2024-12-04 05:33:28.833407 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 90, in move_file
+    raise Exception("bera")
+Exception: bera
+
+2024-12-04 05:33:28.834413 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 90, in move_file
+    raise Exception("bera")
+Exception: bera
+
+2024-12-04 05:33:28.834413 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 90, in move_file
+    raise Exception("bera")
+Exception: bera
+
+2024-12-04 05:33:28.835413 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 90, in move_file
+    raise Exception("bera")
+Exception: bera
+
+2024-12-04 05:33:28.835413 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 90, in move_file
+    raise Exception("bera")
+Exception: bera
+
+2024-12-04 05:33:28.835413 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 90, in move_file
+    raise Exception("bera")
+Exception: bera
+
+2024-12-04 05:34:08.366572 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 90, in move_file
+    raise Exception("bera")
+Exception: bera
+
+2024-12-04 05:34:22.407626 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 90, in move_file
+    raise Exception("bera")
+Exception: bera
+
+2024-12-04 05:35:05.537828 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 91, in move_file
+    raise Exception("bera")
+Exception: bera
+
+2024-12-04 05:35:22.079360 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 88, in move_file
+    raise Exception("bera")
+Exception: bera
+
+2024-12-04 05:36:57.733090 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 88, in move_file
+    raise Exception("bera")
+Exception: bera
+
+2024-12-04 05:49:23.949306 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 50, in organize_files
+    raise Exception("test")
+Exception: test
+
+2024-12-04 05:49:45.032010 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 52, in organize_files
+    raise Exception("test")
+Exception: test
+
+2024-12-04 05:52:11.998868 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 50, in organize_files
+    raise Exception
+Exception
+
+2024-12-04 06:26:53.587061 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 42, in organize_files
+    raise Exception("NY")
+Exception: NY
+
+2024-12-04 06:45:07.613538 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 42, in organize_files
+    raise Exception("nyest")
+Exception: nyest
+
+2024-12-04 06:45:17.276862 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 42, in organize_files
+    raise Exception("nyest")
+Exception: nyest
+
+2024-12-04 06:45:23.439567 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 42, in organize_files
+    raise Exception("nyest")
+Exception: nyest
+
+2024-12-04 06:45:53.163836 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 42, in organize_files
+    raise Exception("nyest")
+Exception: nyest
+
+2024-12-04 06:46:24.121654 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 43, in organize_files
+    cls.move_file(file)
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\logger.py", line 24, in wrapper
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 73, in move_file
+    raise Exception("nybra")
+Exception: nybra
+
+2024-12-04 06:47:31.786086 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 80, in move_file
+    raise Exception("nybra")
+Exception: nybra
+
+2024-12-04 06:47:31.787083 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 80, in move_file
+    raise Exception("nybra")
+Exception: nybra
+
+2024-12-04 06:47:31.787083 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 80, in move_file
+    raise Exception("nybra")
+Exception: nybra
+
+2024-12-04 06:47:31.787083 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 80, in move_file
+    raise Exception("nybra")
+Exception: nybra
+
+2024-12-04 06:47:31.787083 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 80, in move_file
+    raise Exception("nybra")
+Exception: nybra
+
+2024-12-04 06:47:31.788593 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 80, in move_file
+    raise Exception("nybra")
+Exception: nybra
+
+2024-12-04 06:47:31.788593 - error: Traceback (most recent call last):
+  File "C:\Users\oskar\PycharmProjects\final_assignment\src\file_organizer\file_handler.py", line 80, in move_file
+    raise Exception("nybra")
+Exception: nybra
+

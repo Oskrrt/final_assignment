@@ -1,0 +1,19 @@
+[relatives]
+relative1 = {relative = "Relative_1", street_name = "Gangnam-daero", district = "Gangnam-gu", latitude = 37.4979, longitude = 127.0276}
+relative2 = {relative = "Relative_2", street_name = "Yangjae-daero", district = "Seocho-gu", latitude = 37.4833, longitude = 127.0322}
+relative3 = {relative = "Relative_3", street_name = "Sinsa-daero", district = "Gangnam-gu", latitude = 37.5172, longitude = 127.0286}
+relative4 = {relative = "Relative_4", street_name = "Apgujeong-ro", district = "Gangnam-gu", latitude = 37.5219, longitude = 127.0411}
+relative5 = {relative = "Relative_5", street_name = "Hannam-daero ", district = "Yongsan-gu", latitude = 37.5340, longitude = 127.0026}
+relative6 = {relative = "Relative_6", street_name = "Seongsu-daero", district = "Seongdong-gu", latitude = 37.5443, longitude = 127.0557}
+relative7 = {relative = "Relative_7", street_name = "Cheongdam-ro", district = "Gangnam-gu", latitude = 37.5172, longitude = 127.0391}
+relative8 = {relative = "Relative_8", street_name = "Bukhan-ro", district = "Jongno-gu", latitude = 37.5800, longitude = 127.9844}
+relative9 = {relative = "Relative_9", street_name = "Samseong-ro", district = "Gangnam-gu", latitude = 37.5110, longitude = 127.0590}
+relative10 = {relative = "Relative_10", street_name = "Jamsil-ro", district = "Songpa-gu ", latitude = 37.5133, longitude = 127.1028}
+
+[modes_of_transport]
+bus = {transport_mode = "bus", speed_kmh = 40, cost_per_km = 2, transfer_time_min = 5}
+train = {transport_mode = "train", speed_kmh = 80, cost_per_km = 5, transfer_time_min = 2}
+bicycle = {transport_mode = "bicycle", speed_kmh = 15, cost_per_km = 0, transfer_time_min = 1}
+walking = {transport_mode = "walking", speed_kmh = 5, cost_per_km = 0, transfer_time_min = 0}
+
+

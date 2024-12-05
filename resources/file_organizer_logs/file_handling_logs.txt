@@ -1,0 +1,12 @@
+2024-12-05 10:24:49.510791 - directory reset to original state, deleted subfolders
+2024-12-05 10:32:36.317987 - directory created: src\file_organizer\directories\txt
+2024-12-05 10:32:36.316985 - file moved to correct directory - file: file1.txt
+2024-12-05 10:32:36.318985 - file moved to correct directory - file: file2.txt
+2024-12-05 10:32:36.318985 - file moved to correct directory - file: file3.txt
+2024-12-05 10:32:36.319985 - directory created: src\file_organizer\directories\json
+2024-12-05 10:32:36.318985 - file moved to correct directory - file: file4.json
+2024-12-05 10:32:36.319985 - directory created: src\file_organizer\directories\py
+2024-12-05 10:32:36.319985 - file moved to correct directory - file: file5.py
+2024-12-05 10:32:36.320986 - directory created: src\file_organizer\directories\dll
+2024-12-05 10:32:36.320986 - file moved to correct directory - file: file6.dll
+2024-12-05 10:32:47.895873 - directory reset to original state, deleted subfolders
